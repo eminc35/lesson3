@@ -1,4 +1,5 @@
 Limonata tarifi:
-Limon
-su
-seker
+1.Limon
+2.su
+3.seker
+4.nane
