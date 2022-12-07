@@ -3,3 +3,4 @@ Limonata tarifi:
 2.su
 3.seker
 4.nane
+5.Bardak
